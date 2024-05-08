@@ -1,2 +1,4 @@
 # Results-frontend-mentor
-My first challenge completed on frontend mentor
+This project is one of many. You can go to frontendmentor.com to do this challenge as well!
+
+
